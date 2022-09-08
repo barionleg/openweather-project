@@ -3,7 +3,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: url(<iframe width="480" height="270" src="https://video.ibm.com/embed/17074538" scrolling="no" allowfullscreen webkitallowfullscreen frameborder="0" style="border: 0 none transparent;"></iframe>) no-repeat center center/cover;
+    background: url(https://video.ibm.com/channel/17074538) no-repeat center center/cover;
   }
 .container .Titles h1 {
     text-align: center;
