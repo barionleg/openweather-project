@@ -1,10 +1,11 @@
 window.onload = function () {
   Particles.init({
-    selector: ".background"
+    selector: "bg-video-wrap"
+
   });
 };
 const particles = Particles.init({
-  selector: ".background",
+  selector:  "bg-video-wrap",
   color: ["#03dac6", "#ff0266", "#000000"],
   connectParticles: true,
   responsive: [
