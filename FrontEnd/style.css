@@ -213,7 +213,7 @@ a {
     font-size: 1.2vw;
   }
 }
-.background {
+.bg-video-wrap img {
   position: absolute;
   height: 100vh;
   top: 0;
