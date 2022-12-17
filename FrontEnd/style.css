@@ -170,7 +170,7 @@ a {
   background: #03dac6;
   transition: left 0.3s ease;
 }
-.background {
+.bg-video-wrap img {
   position: absolute;
   height: 90vh;
   top: 0;
@@ -179,6 +179,8 @@ a {
   right: 0;
   z-index: auto;
 }
+
+
 @media (min-width: 800px) {
   .nav h1,
   .slider h1 {
