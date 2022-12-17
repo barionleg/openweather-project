@@ -1,6 +1,6 @@
 window.onload = function () {
   Particles.init({
-    selector: "bg-video-wrap"
+    selector: "background"
 
   });
 };
